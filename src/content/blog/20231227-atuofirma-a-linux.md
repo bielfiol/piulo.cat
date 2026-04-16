@@ -1,6 +1,7 @@
 ---
 title: "AutoFirma a Linux"
-date: 2023-12-27
+description: "Què passa si amb autofirma no ens surten certificats?"
+pubDate: 'Dec 27 2023'
 author: "Biel Fiol Garí"
 ---
 
