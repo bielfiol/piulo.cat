@@ -3,7 +3,7 @@ title: "AutoFirma a Linux"
 description: "Què passa si amb autofirma no ens surten certificats?"
 pubDate: 'Dec 27 2023'
 author: "Biel Fiol Garí"
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/terminal.png'
 ---
 
 Per a signar digitalment documents faig servir AutoFirma del Portal Administración Electrónica (PAe).
