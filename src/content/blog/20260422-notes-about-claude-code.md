@@ -66,3 +66,8 @@ Switches the model (Sonnet, Opus, etc.).
 
 ### /exit
 Closes Claude Code.
+
+## Custom commands
+Go to .claude folder in the project directory and create a new directory commands (if it does not exist).
+There create a new markdown file with the name of the command we want to create.
+Write in the markdown file the instructions for the command. If we want to accept arguments we use $ARGUMENTS inside the file.
