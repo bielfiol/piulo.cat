@@ -4,6 +4,7 @@ pubDate: "2026-04-22"
 description: "Reflections on using Claude for code generation and workflows."
 tags: ["astro", "blog", "ai", "programming"]
 author: "Bielfiol"
+heroImage: '../../assets/terminal.png'
 ---
 
 ## Notes about using Claude Code
@@ -12,7 +13,7 @@ Today I experimented with Claude to help write code and structure a new Astro bl
 
 With Claude Code I can use '#' to write an instruction and Claude Code saves it to CLAUDE.md.
 For example:
-># Use comments sparingly. Only comment complex code.
+>\# Use comments sparingly. Only comment complex code.
 
 ## Referencing files
 
