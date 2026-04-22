@@ -15,6 +15,13 @@ For example:
 ># Use comments sparingly. Only comment complex code.
 
 ## Referencing files
+
 To mention a file we can use '@'.
 For example, if I want to refer myFolder/myFile.pas I'll write:
 >Analyze @myFolder/myFile.pas
+
+## Planning mode
+
+To enable Planning Mode press Shift + Tab twice (once if you want auto-accepting edits)
+
+## enable thinking
