@@ -2,6 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import msx2 from '../assets/msx_2.png';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 ---
 
@@ -21,6 +22,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 			<p>
 				Podríem dir que es tracta d'un bloc de notes per anar apuntant allò que m'agrada tenir a mà.
 			</p>
+			<img src={msx2.src} alt="MSX image" style="max-width:100%;height:auto;margin:1rem 0;" />
 			<ul style="display: none">
 				<li>Edit this page in <code>src/pages/index.astro</code></li>
 				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
